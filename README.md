@@ -1,12 +1,12 @@
 ---
 # Title of dataset: Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory
 ---
+Article citation: Field, K. A., Short,M. L., Moody, J. E., Artelle, K. A., Bourbonnais,M. L., Paquet, P. C., & Darimont, C. T. (2024). Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory. Conservation Science and Practice, e13097.
 
-Data generated during this study (i.e., data files described below) are not publicly available due to confidentiality agreement with Nuxalk Nation, but available from the corresponding author and Nuxalk Nation upon reasonable request.
-Scripts reproduce the results described in 'Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory' 
+Scripts reproduce the results described in 'Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory.' Data generated during this study (i.e., data files described below) are not publicly available due to confidentiality agreement with Nuxalk Nation, but available from the corresponding author and Nuxalk Nation upon reasonable request.
 
-## Description of the data and file structure:
-R Scripts: Scripts are meant to be run sequentially. Scripts 1 and 2 produce dataframes in the global environment 
+## Description of the data and scripts:
+R Scripts are meant to be run sequentially. Scripts 1 and 2 produce dataframes in the global environment 
 that scripts 3 and 4 call in. 
 
 1 - Data exploration and preparation.R:
@@ -22,9 +22,8 @@ Weekly Detection analysis, including models with and without imputed salmon data
 4 - Multinomial.R:
 Multinomial regression analysis
 
-## Data files
 Camera trap metadata.xlsx:
-Metadata 
+Metadata for camera trap variables
 
 atnarko_deployment_data.csv:
 Camera trap deployment data, including deployment begin and end dates, as well as install dates. Camera trap settings and models can be found in the SI associated with this manuscript (see also camera trap metadata for full description of variables).
