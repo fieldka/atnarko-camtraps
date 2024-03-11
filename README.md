@@ -1,5 +1,5 @@
 ---
-# Title of dataset: Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory
+# Title of paper associated with this repository: Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory
 ---
 
 R scripts reproduce the results described in 'Influence of ecotourism on grizzly bear activity depends on salmon abundance in the Atnarko River corridor, Nuxalk Territory.' Data generated during this study (i.e., data files described below) are not publicly available due to confidentiality agreement with Nuxalk Nation, but available from the corresponding author and Nuxalk Nation upon reasonable request.
