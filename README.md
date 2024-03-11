@@ -24,16 +24,16 @@ Multinomial regression analysis
 
 ## Data files
 Camera trap metadata.xlsx:
-Meta data 
+Metadata 
 
 atnarko_deployment_data.csv:
-Camera trap deployment data, including deployment begin and end dates, as well as install dates. Camera trap settings and models can be found in the SI associated with this manuscript (see also camera trap meta data for full description of variables).
+Camera trap deployment data, including deployment begin and end dates, as well as install dates. Camera trap settings and models can be found in the SI associated with this manuscript (see also camera trap metadata for full description of variables).
 
 atnarko_detection_data.csv:
-Camera trap detection data, including (see camera trap meta data for full description of variables). 
+Camera trap detection data, including (see camera trap metadata for full description of variables). 
 
 atnarko_station_data.csv:
-Camera trap station data, including deployment location ID, install date, station coordinates, treatment (see camera trap meta data for full description of variables). 
+Camera trap station data, including deployment location ID, install date, station coordinates, treatment (see camera trap metadata for full description of variables). 
 
 berry_surveys.csv: 
 Raw berry survey data.
